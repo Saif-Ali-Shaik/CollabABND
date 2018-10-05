@@ -20,10 +20,10 @@ GIS Collaborative project Phase 2,
 
 ## Getting Started
 
-Hi this repo is for ABND Track,
+- Hi this repo is for ABND Track,
 we are yet to decide the idea for project, so if you guys have any ideas please share with me via slack @ak003.abnd
-Please reach to project moderator - @ak003.abnd for any queries
-Thanks, will make this a great project.
+- Please reach to project moderator - @ak003.abnd for any queries
+- Thanks, will make this a great project.
 
 ## Project URL
 [Visit the app](#)
